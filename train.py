@@ -89,7 +89,7 @@ if __name__ == '__main__':
 					torch.save(G.state_dict(), 'G_weights_' + str(epoch) + '.pth')
 			except KeyboardInterrupt:
 				torch.save(D.state_dict(), 'D_weights.pth')
-				torch.save(G.state_dict(), 'D_weights.pth')
+				torch.save(G.state_dict(), 'G_weights.pth')
 	torch.save(D.state_dict(), 'D_weights.pth')
-	torch.save(G.state_dict(), 'D_weights.pth')
+	torch.save(G.state_dict(), 'G_weights.pth')
 	print("Done")
