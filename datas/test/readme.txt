@@ -1,0 +1,1 @@
+在此文件夹下创建generated,gray,image,rgb四个文件夹，数据集放在image下
