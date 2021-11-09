@@ -3,10 +3,10 @@
 **使用GAN训练实现黑白图片上色**
 
 **python工具包**
->python = 3.6  
->pytorch  
->numpy  
->cv2  
+>任意版本均可
+>pytorch
+>numpy
+>cv2
 
 **数据集**
 
@@ -14,7 +14,4 @@
 
 **使用方法**
 
-*依次运行pre_train.py、train.py、test.py*
-
-**原理**
-
+*依次运行pre_train.py、train.py、test.py，结果会保存在datas/test/generated下*
