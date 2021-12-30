@@ -16,3 +16,7 @@
 **使用方法**
 
 *依次运行pre_train.py、train.py、test.py，结果会保存在datas/test/generated下*
+
+**结果**
+
+*见[loss.txt](loss.txt)*
