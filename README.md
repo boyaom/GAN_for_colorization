@@ -1,5 +1,5 @@
 #  GAN_for_colorization
-*[中文版](readme_CN.md)*
+*[中文版](README_CN.md)*
 
 **Color Gray Pictures with GAN**
 
