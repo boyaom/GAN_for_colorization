@@ -18,3 +18,7 @@
 >python train.py
 >python test.py
 *The results will be saved under datas/test/generated*
+
+**Our result**
+
+*see [loss.txt](loss.txt)*
