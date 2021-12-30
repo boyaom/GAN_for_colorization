@@ -1,4 +1,5 @@
 #  GAN_for_colorization
+*[English](README.md)*
 
 **使用GAN训练实现黑白图片上色**
 
